@@ -1,0 +1,96 @@
+{
+  "company": {
+    "name": "Herojatgeo",
+    "logo": "/assets/images/logo.png"
+  },
+  "navigation": [
+    {
+      "name": "Why Rhomega?",
+      "href": "product"
+    },
+    {
+      "name": "Services",
+      "href": "features"
+    }
+  ],
+  "callToAction": {
+    "text": "Get started",
+    "href": "#"
+  },
+  "mainHero": {
+    "title": "Geosciences",
+    "subtitle": "Solutions",
+    "description": "Welcome to Herojatgeo, your premier destination for cutting-edge geosciences, laboratory, and engineering materials. Specializing in the production and sale of the revolutionary Rhomega microcontroller-based electrical resistivity meter, we cater to geoscientists, engineers, and professionals involved in geological and geophysical explorations, geotechnical studies, and more.",
+    "img": "/assets/images/happyTeam.jpeg",
+    "primaryAction": {
+      "text": "Get started",
+      "href": "https://wa.me/+2347064260093"
+    },
+    "secondaryAction": {
+      "text": "WhatsApp us",
+      "href": "https://wa.me/+2347064260093"
+    }
+  },
+  "product": {
+    "title": "Why Choose Rhomega?",
+    "items": [
+      {
+        "title": "Advanced Technology",
+        "description": "The Rhomega meter boasts state-of-the-art microcontroller technology, providing unparalleled accuracy and reliability in electrical resistivity measurements.",
+        "img": "/assets/images/product1.jpg"
+      },
+      {
+        "title": "Robust Design",
+        "description": "Built to withstand harsh field conditions, our meter is durable and dependable, ensuring consistent performance even in challenging environments.",
+        "img": "/assets/images/product2.jpg"
+      }
+    ]
+  },
+  "features": {
+    "title": "Our Products and Services",
+    "subtitle": "All the best technologies out there!",
+    "description": "Whether you're conducting geological surveys, environmental assessments, or engineering studies, we have various products and services that adapts to various applications with ease.",
+    "items": [
+      {
+        "name": "Geosciences Materials",
+        "description": "From soil sampling tools to rock core drilling equipment, we offer a comprehensive range of materials tailored to meet the diverse needs of geoscientists and engineers.",
+        "icon": "/assets/images/react.png"
+      },
+      {
+        "name": "Laboratory Equipment",
+        "description": "Enhance your research capabilities with our high-quality laboratory instruments and supplies designed to streamline your testing processes.",
+        "icon": "/assets/images/tailwindcss.svg"
+      },
+      {
+        "name": "Engineering Solutions",
+        "description": "Discover innovative engineering solutions for geotechnical investigations, structural analysis, and more, crafted to optimize project efficiency and performance.",
+        "icon": "/assets/images/nextjs.svg"
+      }
+    ]
+  },
+  
+  "about": {
+    "sections": [
+      {
+        "name": "Call: +2347064260093",
+        "href": "tel:+2347064260093",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Whatsapp: +2347064260093",
+        "href": "https://wa.me/+2347064260093",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Email: herojatgeosciences@gmail.com",
+        "href": "mailto:herojatgeosciences@gmail.com?subject = Enquiry&body = Message",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      }
+    ],
+    "socialMedia": {
+      "github": "https://github.com/lukman155",
+      "twitter": "https://twitter.com/lukmanbattledev",
+      "linkedin": "https://www.linkedin.com/in/lukmanbaba/"
+    }
+  }
+}
